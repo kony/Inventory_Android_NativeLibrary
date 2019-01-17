@@ -1,0 +1,1 @@
+This app demonstrates the capability of Kony AppPlatform to generate native android libraries from Kony apps. A basic barcode scanning Kony app is integrated into a simple inventory management android application to scan and add products to the inventory
